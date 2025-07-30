@@ -26,6 +26,19 @@ header {
     margin-bottom: 60px;
 }
 
+.profile-image {
+    margin-bottom: 30px;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #e0e0e0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
 h1 {
     font-size: 3rem;
     font-weight: 600;
