@@ -24,6 +24,23 @@ I'm a passionate Data Analytics student with expertise in AI, Machine Learning, 
 2. **[Idealista Dashboard](https://sites.google.com/student.ie.edu/harmonia-idealista/home?authuser=0)** - Tableau, HARMONIA
 
 ## 🛠️ Technical Skills
+
+### Programming Languages
+- **Python** - Data analysis, machine learning, automation
+- **SQL** - Database querying and management
+- **R** - Statistical analysis and data visualization
+
+### Data Visualization
+- **Tableau** - Interactive dashboards and data storytelling
+- **PowerBI** - Business intelligence and reporting
+
+### Automation & Cloud
+- **N8N** - Workflow automation and integrations
+- **Microsoft Azure** - Cloud computing and services
+
+### Version Control
+- **Git** - Source code management and collaboration
+
 ### Python Libraries
 - PyTorch
 - Transformers 
